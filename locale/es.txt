@@ -1,129 +1,171 @@
 #: locale=es
 
-## E-Learning
+## Hotspot
 
-### Answer
-questionOption_ACF86B17_8702_D66B_41DE_DDEF96A4C1E5.text = Check the load is free from objects that could fall
-questionOption_4DD398F1_6160_E9A1_41CF_E9F8858AE592.text = Helmets
-questionOption_A370ADFC_8702_CD9D_41D9_E5CC6907D8D6.text = Risk of falling elements
-questionOption_A4A0AAE5_8702_D7AF_41B5_7D6BDDBF9BBA.text = Risk of release of toxic materials
-questionOption_4DFBCD31_6160_E8A1_41B6_F68D35E09AC1.text = Seat Belts
-questionOption_4D0D3496_6163_1863_41C2_7D7D2504A0A4.text = Shields
-questionOption_4D25D632_6163_18A3_41CD_29B8AEC3812E.text = Straps
-questionOption_91E8AD09_86E2_036B_41D4_10E5FC0E4FD2.text = Use a tag line where possible
-questionOption_91FA06D8_86E2_0EE9_41C5_E646855EF2D1.text = Wear dark clothes
-questionOption_9016A558_86E2_03E9_41DD_7469E74CF931.text = Wear your hard hat
-
-### Question
-question_4AB65911_6161_E861_41D5_3F5DAF331340.title = IN THE BODY HARNESS, WHAT SHOULD BE TIGHT, BUT NOT TIGHT ENOUGH TO RESTRICT MOVEMENT?
-question_90831A24_86E2_0159_41B6_DFE43D424E57.title = SELECT THE CORRECT PROTOCOLS FROM THE FOLLOWING:
-question_A45C1845_8702_52EF_41DC_C0BC4CFC364C.title = WHEN HANDLING WASTE, WHAT IS THE MOST COMMON RISK AND WHICH MUST BE GIVEN MORE ATTENTION?
-
-### Question Screen
-
-### Report Screen
-quizScore_99999F78_8692_E51B_41D8_0B6AB11CC1F2.title = - SCORE -
-quizScore_99999F78_8692_E51B_41D8_0B6AB11CC1F2.description = - SCORE -
-quizScore_99999F78_8692_E51B_41D8_0B6AB11CC1F2.questionsIncorrect = Incorrect
-quizScore_99999F78_8692_E51B_41D8_0B6AB11CC1F2.elapsedTime = Time
-
-### Score Name
-score1.label = Score 1
-
-### Timeout Screen
+### Tooltip
+HotspotPanoramaOverlayArea_4FA875ED_446A_4C81_41CB_2F19951B3E46.toolTip = Daltile
+HotspotPanoramaOverlayArea_4FA8B5ED_446A_4C81_41B5_49A7666276CB.toolTip = DuPont
+HotspotPanoramaOverlayArea_4FAD15EE_446A_4C83_41CE_5D41C23CDD71.toolTip = DuPont
+HotspotPanoramaOverlayArea_4FA135EF_446A_4C81_41A3_6BAEFD42605B.toolTip = DuPont
+HotspotPanoramaOverlayArea_4FA895ED_446A_4C81_41C3_B97BF4060E1A.toolTip = Go To Great Room 2
+HotspotPanoramaOverlayArea_4FAF55EE_446A_4C83_4185_E721E7E6ECC7.toolTip = Go to Great Room 1
+HotspotPanoramaOverlayArea_4FA315EF_446A_4C81_41BB_A2A649F99D34.toolTip = Go to Great Room 1
+HotspotPanoramaOverlayArea_4FA965ED_446A_4C81_41B6_FBFB37D89A02.toolTip = Go to Great Room 1
+HotspotPanoramaOverlayArea_4FA1E5F0_446A_4C9F_41CA_10023D5D1402.toolTip = Go to Great Room 2
+HotspotPanoramaOverlayArea_4FA845ED_446A_4C81_41B0_2298B606A67A.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_4B6042EB_4476_4480_41D0_B95C87AE7D56.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_4FA035EF_446A_4C81_41B4_EC7EF333178F.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_4FAE15ED_446A_4C81_41D1_10FA4DA78686.toolTip = Go to Master Bedroom
+HotspotPanoramaOverlayArea_4FA325EF_446A_4C81_41BA_F632A6932273.toolTip = Go to Pool
+HotspotPanoramaOverlayArea_4FA015EF_446A_4C81_41B5_13CBF8459E33.toolTip = Go to Pool
+HotspotPanoramaOverlayArea_4FACC5EE_446A_4C83_41B3_D363F8EF95E1.toolTip = Go to Pool
+HotspotMapOverlayArea_4FA315EF_446A_4C81_4197_13158E926D09.toolTip = Great Room
+HotspotMapOverlayArea_4FA1B5F0_446A_4C9F_4195_68A8D905C479.toolTip = Great Room 2
+HotspotMapOverlayArea_4FA225EF_446A_4C81_41C8_458B2457E12B.toolTip = Kitchen
+HotspotPanoramaOverlayArea_4FACF5EE_446A_4C83_41B4_85E694C94664.toolTip = Kohler
+HotspotPanoramaOverlayArea_4FA0F5EF_446A_4C81_41CA_1851B0E71567.toolTip = Kohler Prolific
+HotspotPanoramaOverlayArea_4FA8E5ED_446A_4C81_41C5_F694B53EC9F1.toolTip = Kohler Sensate
+HotspotMapOverlayArea_4FA275EF_446A_4C81_41CD_1D5959544766.toolTip = Master Bedroom
+HotspotPanoramaOverlayArea_4FAD55EE_446A_4C83_41AF_B85C3A70F7B5.toolTip = Owens Corning
+HotspotPanoramaOverlayArea_4FA855ED_446A_4C81_41B2_C6CE4B148C79.toolTip = Owens Corning
+HotspotPanoramaOverlayArea_4FA2E5EF_446A_4C81_416A_AE07B6790B64.toolTip = Phantom Screens
+HotspotPanoramaOverlayArea_4FA395EF_446A_4C81_41C0_09954D31D26C.toolTip = Phantom Screens
+HotspotMapOverlayArea_4FA9D5ED_446A_4C81_41B1_BD8EED321886.toolTip = Pool
+HotspotPanoramaOverlayArea_4FAED5EE_446A_4C83_41D0_3CB95E6E9082.toolTip = Progress Lighting
+HotspotPanoramaOverlayArea_4FA385EF_446A_4C81_41BC_39BD8F322D4B.toolTip = Progress Lighting
+HotspotPanoramaOverlayArea_4FA335EF_446A_4C81_41CF_99E86A6B49E9.toolTip = Progress Lighting
+HotspotPanoramaOverlayArea_4FAC55EE_446A_4C83_41C0_E363AF0E7E9C.toolTip = Progress Lighting Hubbell
+HotspotPanoramaOverlayArea_4FA9B5ED_446A_4C81_41C0_E5005CC148F7.toolTip = Progress Lighting: Hubbell
+HotspotPanoramaOverlayArea_4FA245EF_446A_4C81_4157_4E71C107E036.toolTip = Sherwin Williams
+HotspotPanoramaOverlayArea_4FA8C5ED_446A_4C81_41C8_7BE9B0F33FB5.toolTip = Sherwin Williams
+HotspotPanoramaOverlayArea_4FAE25ED_446A_4C81_41CA_6617BC6F5E2E.toolTip = Siera Pacific Windows
+HotspotPanoramaOverlayArea_4FA3E5EF_446A_4C81_41C1_20D2196DF40B.toolTip = Sierra Pacific
+HotspotPanoramaOverlayArea_4FA115F0_446A_4C9F_41CD_DCB707F995DB.toolTip = Sierra Pacific Windows
+HotspotPanoramaOverlayArea_4FAEE5ED_446A_4C81_41BB_61F03C4E637B.toolTip = Sierra Pacific Windows
+HotspotPanoramaOverlayArea_4FA345EF_446A_4C81_41C1_03894C61A39B.toolTip = Sierra Pacific Windows
+HotspotPanoramaOverlayArea_4FADB5EE_446A_4C83_41B4_0AA6DCE546C3.toolTip = Sierra Pacific Windows
+HotspotPanoramaOverlayArea_4FA185F0_446A_4C9F_41CD_E27E4462383D.toolTip = THERMADOR
+HotspotPanoramaOverlayArea_4FA295EF_446A_4C81_41C0_FD521C03F14E.toolTip = Thermador
+HotspotPanoramaOverlayArea_4FADE5EE_446A_4C83_41B9_85900A306530.toolTip = Thermador
+HotspotPanoramaOverlayArea_4FAD35EE_446A_4C83_41B7_D9A3FF371C7D.toolTip = Thermador
+HotspotPanoramaOverlayArea_4FAFD5EE_446A_4C83_41C9_50A84E151E07.toolTip = Thermador
 
 ## Media
 
-### Audio
-AudioResource_C9F8437E_C2D6_FB9D_41E2_B9C6CD70E003.mp3Url = media/audio_72AD909D_64DF_013E_41A0_CDC359033482_es.mp3
-AudioResource_C9F8137E_C2D6_FB9D_41D5_447CD232DDF2.mp3Url = media/audio_89B2CEC0_9AC4_999A_41E1_A9644D3C1B5A_es.mp3
-
-### Audio Subtitles
+### Floorplan
 
 ### Image
-imlevel_E3C58BD6_EF19_2D1E_41B8_8C45CAF5BABE.url = media/popup_474C56F7_6160_F9A1_41D6_324F5CBC436A_es_0_0.jpg
-imlevel_E3C59BD7_EF19_2D1E_41DC_55248249173A.url = media/popup_474C56F7_6160_F9A1_41D6_324F5CBC436A_es_0_1.jpg
-imlevel_E3C57BC6_EF19_2D7E_41B0_EEF4241B5929.url = media/popup_47F52D2E_6161_28A3_41AB_86EF1A35CBC2_es_0_0.jpg
-imlevel_E3C58BC6_EF19_2D7E_41E1_4AF19EAF401C.url = media/popup_47F52D2E_6161_28A3_41AB_86EF1A35CBC2_es_0_1.jpg
-imlevel_E3C59BC6_EF19_2D7E_41E0_3F4CC0A537A9.url = media/popup_47F52D2E_6161_28A3_41AB_86EF1A35CBC2_es_0_2.jpg
-imlevel_E363A9D2_EF19_2D17_41C5_F033FB63F4ED.url = media/popup_9D128C65_833A_5B83_41D8_D6A8DD8F74FB_es_0_0.jpg
-imlevel_E363B9D2_EF19_2D17_41C6_24B1E4D62481.url = media/popup_9D128C65_833A_5B83_41D8_D6A8DD8F74FB_es_0_1.jpg
-imlevel_E363D9D2_EF19_2D17_41C8_553B450A83FC.url = media/popup_9D128C65_833A_5B83_41D8_D6A8DD8F74FB_es_0_2.jpg
-imlevel_F1D24921_EF2A_ED32_41DF_E3F7B0253CA3.url = media/zoomImage_A18630D5_BF3E_EC85_41E5_55E9AA1D520B_es_0_0.png
-imlevel_F1D3D932_EF2A_ED16_41D3_90D836C190CF.url = media/zoomImage_CF1F4EE8_C07A_B206_41D2_24A73D32D7C8_es_0_0.png
+imlevel_F2416344_EF17_3D72_41E5_245BE5342152.url = media/map_810031DD_8D2D_5025_41D8_C77E6268DA22_es_0.jpg
+imlevel_F2409344_EF17_3D72_41A6_BC75BBBF52D6.url = media/map_810031DD_8D2D_5025_41D8_C77E6268DA22_es_1.jpg
+imlevel_F2408345_EF17_3D72_41D5_EA7D0F89F658.url = media/map_810031DD_8D2D_5025_41D8_C77E6268DA22_es_2.jpg
+imlevel_F240D345_EF17_3D72_41E0_2219A43C08D2.url = media/map_810031DD_8D2D_5025_41D8_C77E6268DA22_es_3.jpg
+imlevel_F241932F_EF17_3D0E_41AC_EFE2FC27A71A.url = media/map_8A7041EE_8D1A_F3E7_41DE_950B34D5B150_es_0.jpg
+imlevel_F241B32F_EF17_3D0D_41E4_A87550D17D7F.url = media/map_8A7041EE_8D1A_F3E7_41DE_950B34D5B150_es_1.jpg
+imlevel_F241A330_EF17_3D12_41E3_433B6800762F.url = media/map_8A7041EE_8D1A_F3E7_41DE_950B34D5B150_es_2.jpg
+imlevel_F241D330_EF17_3D12_41BA_7A4D944487BD.url = media/map_8A7041EE_8D1A_F3E7_41DE_950B34D5B150_es_3.jpg
+imlevel_F242D31A_EF17_3D16_41E7_DD934F8C4C75.url = media/map_8AD6600C_8D1A_F02B_41C9_C9DE167AC9E2_es_0.jpg
+imlevel_F242C31A_EF17_3D16_41C4_6DAC2C784DB9.url = media/map_8AD6600C_8D1A_F02B_41C9_C9DE167AC9E2_es_1.jpg
+imlevel_F242E31A_EF17_3D16_41D4_5E55254FF519.url = media/map_8AD6600C_8D1A_F02B_41C9_C9DE167AC9E2_es_2.jpg
+imlevel_F242131A_EF17_3D16_41E0_ECF22079E4E3.url = media/map_8AD6600C_8D1A_F02B_41C9_C9DE167AC9E2_es_3.jpg
+imlevel_F1AD3D45_EF2B_257D_41EB_05163C392D82.url = media/popup_4404A119_555D_F631_41A5_1D53CF4C70E1_es_0_0.jpg
+imlevel_F1AD3D45_EF2B_257D_41EB_05163C392D82.url = media/popup_4404A119_555D_F631_41A5_1D53CF4C70E1_es_0_0.jpg
+imlevel_F1AD4D45_EF2B_257D_41D4_ACF934D9F85B.url = media/popup_4404A119_555D_F631_41A5_1D53CF4C70E1_es_0_1.jpg
+imlevel_F1AD4D45_EF2B_257D_41D4_ACF934D9F85B.url = media/popup_4404A119_555D_F631_41A5_1D53CF4C70E1_es_0_1.jpg
+imlevel_F1AD6D57_EF2B_251D_41E2_3D0E31D9332E.url = media/popup_44E40783_555C_5A11_41C1_4ADAB292C967_es_0_0.jpg
+imlevel_F1AD6D57_EF2B_251D_41E2_3D0E31D9332E.url = media/popup_44E40783_555C_5A11_41C1_4ADAB292C967_es_0_0.jpg
+imlevel_F1AD7D57_EF2B_251D_41CC_F6A2EC4ADD74.url = media/popup_44E40783_555C_5A11_41C1_4ADAB292C967_es_0_1.jpg
+imlevel_F1AD7D57_EF2B_251D_41CC_F6A2EC4ADD74.url = media/popup_44E40783_555C_5A11_41C1_4ADAB292C967_es_0_1.jpg
+imlevel_F186A47D_EF2B_3B0D_41E0_D4DE573D0F01.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_0.jpg
+imlevel_F186A47D_EF2B_3B0D_41E0_D4DE573D0F01.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_0.jpg
+imlevel_F186A47D_EF2B_3B0D_41E0_D4DE573D0F01.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_0.jpg
+imlevel_F186C47D_EF2B_3B0D_41E7_E87C09B3F60E.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_1.jpg
+imlevel_F186C47D_EF2B_3B0D_41E7_E87C09B3F60E.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_1.jpg
+imlevel_F186C47D_EF2B_3B0D_41E7_E87C09B3F60E.url = media/popup_5D810675_579D_EA24_4197_2883D4567A9F_es_0_1.jpg
+imlevel_F184646D_EF2B_3B0D_41ED_708084204133.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_0.jpg
+imlevel_F184646D_EF2B_3B0D_41ED_708084204133.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_0.jpg
+imlevel_F184646D_EF2B_3B0D_41ED_708084204133.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_0.jpg
+imlevel_F185646D_EF2B_3B0D_41EC_9706DD492C9A.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_1.jpg
+imlevel_F185646D_EF2B_3B0D_41EC_9706DD492C9A.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_1.jpg
+imlevel_F185646D_EF2B_3B0D_41EC_9706DD492C9A.url = media/popup_5D89B52E_5792_EE24_41AF_386EE41C2B45_es_0_1.jpg
+imlevel_F184D44B_EF2B_3B75_41E1_40545D210F32.url = media/popup_5D9549CC_5796_E664_4189_945560E31572_es_0_0.jpg
+imlevel_F184D44B_EF2B_3B75_41E1_40545D210F32.url = media/popup_5D9549CC_5796_E664_4189_945560E31572_es_0_0.jpg
+imlevel_F184C44B_EF2B_3B75_41B1_C69AAC9675C5.url = media/popup_5D9549CC_5796_E664_4189_945560E31572_es_0_1.jpg
+imlevel_F184C44B_EF2B_3B75_41B1_C69AAC9675C5.url = media/popup_5D9549CC_5796_E664_4189_945560E31572_es_0_1.jpg
+imlevel_F187545B_EF2B_3B15_41E9_3558136A0FFA.url = media/popup_5DA2BBCE_5792_BA64_41A1_F113E82DE48D_es_0_0.jpg
+imlevel_F187645B_EF2B_3B15_41D5_C76DFE4A925B.url = media/popup_5DA2BBCE_5792_BA64_41A1_F113E82DE48D_es_0_1.jpg
+imlevel_F184743A_EF2B_3B17_41D7_637F4118F76A.url = media/popup_5E3A4867_5796_6623_4193_C2A67B4E0E42_es_0_0.jpg
+imlevel_F184743A_EF2B_3B17_41D7_637F4118F76A.url = media/popup_5E3A4867_5796_6623_4193_C2A67B4E0E42_es_0_0.jpg
+imlevel_F184643A_EF2B_3B17_41E5_1CE237D686B8.url = media/popup_5E3A4867_5796_6623_4193_C2A67B4E0E42_es_0_1.jpg
+imlevel_F184643A_EF2B_3B17_41E5_1CE237D686B8.url = media/popup_5E3A4867_5796_6623_4193_C2A67B4E0E42_es_0_1.jpg
+imlevel_F181B4B0_EF2B_3B13_41E9_72F5DA24EE82.url = media/popup_72694085_7F76_B9EB_41A8_AA61BDE9B6DE_es_0_0.png
+imlevel_F18784B0_EF2B_3B13_41E4_D08DBCB40158.url = media/popup_72694085_7F76_B9EB_41A8_AA61BDE9B6DE_es_0_1.png
+imlevel_F187749E_EF2B_3B0F_41D1_31E29159EB4B.url = media/popup_7281000A_7FBF_98F9_41D8_0366A4983970_es_0_0.png
+imlevel_F187649E_EF2B_3B0F_41E4_F638774FF327.url = media/popup_7281000A_7FBF_98F9_41D8_0366A4983970_es_0_1.png
+imlevel_F187E48E_EF2B_3B0F_41E6_5D51B4FE6C40.url = media/popup_7297E618_7FB7_9919_41D3_DA596B0E4EEC_es_0_0.png
+imlevel_F187048E_EF2B_3B0F_41E1_7D4FDE94C902.url = media/popup_7297E618_7FB7_9919_41D3_DA596B0E4EEC_es_0_1.png
+imlevel_F1A95DFF_EF2B_250D_41B2_D0E0E91854F3.url = media/popup_729A5EEF_7FAA_8937_41D3_77EDFA4FCB33_es_0_0.png
+imlevel_F1AF5DFF_EF2B_250D_41E9_A6A3912F39EA.url = media/popup_729A5EEF_7FAA_8937_41D3_77EDFA4FCB33_es_0_1.png
+imlevel_F1AEBDD8_EF2B_2513_41D8_24D344CAB48D.url = media/popup_7312A408_7FFB_B8F9_41CB_E964D1647CC9_es_0_0.jpg
+imlevel_F1AEBDD8_EF2B_2513_41D8_24D344CAB48D.url = media/popup_7312A408_7FFB_B8F9_41CB_E964D1647CC9_es_0_0.jpg
+imlevel_F1AFCDD8_EF2B_2513_41DC_7B81FDAFB0C3.url = media/popup_7312A408_7FFB_B8F9_41CB_E964D1647CC9_es_0_1.jpg
+imlevel_F1AFCDD8_EF2B_2513_41DC_7B81FDAFB0C3.url = media/popup_7312A408_7FFB_B8F9_41CB_E964D1647CC9_es_0_1.jpg
+imlevel_F1AF9DA6_EF2B_253F_41E1_149E02C2117B.url = media/popup_73138298_7FFF_9918_41D7_8A10405EE379_es_0_0.jpg
+imlevel_F1AF9DA6_EF2B_253F_41E1_149E02C2117B.url = media/popup_73138298_7FFF_9918_41D7_8A10405EE379_es_0_0.jpg
+imlevel_F1AFDDA6_EF2B_253F_41D5_017A6985D199.url = media/popup_73138298_7FFF_9918_41D7_8A10405EE379_es_0_1.jpg
+imlevel_F1AFDDA6_EF2B_253F_41D5_017A6985D199.url = media/popup_73138298_7FFF_9918_41D7_8A10405EE379_es_0_1.jpg
+imlevel_F1AE7DC7_EF2B_257D_41B0_507C16F68528.url = media/popup_731DB594_7FFD_9BE9_41A0_8672B8B2FC9E_es_0_0.png
+imlevel_F1AE7DC7_EF2B_257D_41B0_507C16F68528.url = media/popup_731DB594_7FFD_9BE9_41A0_8672B8B2FC9E_es_0_0.png
+imlevel_F1A99DC8_EF2B_2573_41E6_25B93FAC7208.url = media/popup_731DB594_7FFD_9BE9_41A0_8672B8B2FC9E_es_0_1.png
+imlevel_F1A99DC8_EF2B_2573_41E6_25B93FAC7208.url = media/popup_731DB594_7FFD_9BE9_41A0_8672B8B2FC9E_es_0_1.png
+imlevel_F1AF1DB7_EF2B_251D_41ED_F1E1BCF952BA.url = media/popup_731FE737_7FFE_8717_41D7_39B68BE4B532_es_0_0.jpg
+imlevel_F1AF1DB7_EF2B_251D_41ED_F1E1BCF952BA.url = media/popup_731FE737_7FFE_8717_41D7_39B68BE4B532_es_0_0.jpg
+imlevel_F1AC2DB7_EF2B_251D_41E7_248AD0BF299D.url = media/popup_731FE737_7FFE_8717_41D7_39B68BE4B532_es_0_1.jpg
+imlevel_F1AC2DB7_EF2B_251D_41E7_248AD0BF299D.url = media/popup_731FE737_7FFE_8717_41D7_39B68BE4B532_es_0_1.jpg
+imlevel_F18FB671_EF2B_2715_41C1_5F5A3867BA48.url = media/popup_8DEB3006_80AE_98E9_41CF_BE2227A592D4_es_0_0.png
+imlevel_F18FA671_EF2B_2715_41A7_4160FAC06A25.url = media/popup_8DEB3006_80AE_98E9_41CF_BE2227A592D4_es_0_1.png
+imlevel_F18D565E_EF2B_270F_41E7_8239C1B0DDA3.url = media/popup_8DF986C7_80AE_9977_41BA_B8733BE95058_es_0_0.jpg
+imlevel_F18D565E_EF2B_270F_41E7_8239C1B0DDA3.url = media/popup_8DF986C7_80AE_9977_41BA_B8733BE95058_es_0_0.jpg
+imlevel_F18D765E_EF2B_270F_41E7_DF22F39A1980.url = media/popup_8DF986C7_80AE_9977_41BA_B8733BE95058_es_0_1.jpg
+imlevel_F18D765E_EF2B_270F_41E7_DF22F39A1980.url = media/popup_8DF986C7_80AE_9977_41BA_B8733BE95058_es_0_1.jpg
 
 ### Popup Image
 
 ### Title
-video_4BCEAD26_6161_68A3_41D0_3CA0B779C286.label = Construction - 37179
-panorama_48925559_615F_38E1_41D1_206DEE049A43.label = Panorama 1
-panorama_46DE34D0_6161_19FF_41B9_05F16CA5E059.label = Panorama 2
-panorama_47863863_6161_68A1_41C6_F343DA9B3CDC.label = Panorama 3
-album_91AD8258_8B10_3A83_41BB_E121A4673481.label = Photo Album 1-1
-album_ADE7DB61_8706_56A7_41CD_9A921D42D3C2.label = Photo Album crane
-album_44D94125_6120_F8A1_41D6_141A2B3D204C.label = Photo Album crash-demolition-construction-work-site
-video_990BDC2E_86B1_AB37_41DA_CE2DB7D1611D.label = circulo
-
-### Video
-videolevel_F1E94870_EF2A_EB13_41D1_9F6198E1B609.url = media/video_4BCEAD26_6161_68A3_41D0_3CA0B779C286_es.mp4
-videolevel_F1E94870_EF2A_EB13_41D1_9F6198E1B609.posterURL = media/video_4BCEAD26_6161_68A3_41D0_3CA0B779C286_poster_es.jpg
-videolevel_F1E767D5_EF2A_E51D_41EA_A5B31C3687AC.url = media/video_990BDC2E_86B1_AB37_41DA_CE2DB7D1611D_es.mp4
-videolevel_F1E767D5_EF2A_E51D_41EA_A5B31C3687AC.posterURL = media/video_990BDC2E_86B1_AB37_41DA_CE2DB7D1611D_poster_es.jpg
-
-### Video Subtitles
-
-## Right Click Menu
-
-### Text
-TDVAuthor.label = 3DVista Studios
+map_8AD6600C_8D1A_F02B_41C9_C9DE167AC9E2.label = BASEMENT
+map_810031DD_8D2D_5025_41D8_C77E6268DA22.label = FIRST FLOOR
+map_8A7041EE_8D1A_F3E7_41DE_950B34D5B150.label = GROUND FLOOR
+panorama_97846A08_9FDA_E6C0_41E2_9487DC65E14F.label = Great Room
+panorama_8FA8ACF1_842F_9EE9_41E0_258ADBEA645B.label = Great Room 2
+panorama_530C11DB_555C_D631_41A7_564516B4480D.label = Kitchen
+panorama_5962C029_5567_B611_41C0_CD4C112B12ED.label = Master Bedroom
+album_5890DEBF_56DC_4A71_41B1_FF6CF35E4D3A.label = Photo Album
+album_5890DEBF_56DC_4A71_41B1_FF6CF35E4D3A_4.label = Picture22_20160107094838
+album_5890DEBF_56DC_4A71_41B1_FF6CF35E4D3A_8.label = Picture26_20160107100710
+album_5890DEBF_56DC_4A71_41B1_FF6CF35E4D3A_0.label = Picture2_20160107094355
+album_5890DEBF_56DC_4A71_41B1_FF6CF35E4D3A_19.label = Picture45_20160107101227
+photo_59DD90F6_575C_57F0_41C7_A3BD64A0E450.label = Picture47_20160107101249
+panorama_78D64E4D_7F5D_8978_41D5_3B24567E9A08.label = Pool
 
 ## Skin
 
-### Button
-Button_4F95CADF_58D1_E143_41A4_45A359CB89FB_mobile.pressedLabel = FINISH
-Button_4F95CADF_58D1_E143_41A4_45A359CB89FB.label = FINISH
-Button_4F95CADF_58D1_E143_41A4_45A359CB89FB_mobile.label = FINISH
-Button_4F95CADF_58D1_E143_41A4_45A359CB89FB.pressedLabel = FINISH
-Button_46F5062B_53DC_6546_41B9_B98F71AB41A1.label = read more
-Button_46F5062B_53DC_6546_41B9_B98F71AB41A1_mobile.label = read more
-
 ### Image
-Image_2B3FE192_628C_4FB2_41C6_ED82CD522B70.url = skin/Image_2B3FE192_628C_4FB2_41C6_ED82CD522B70_es.png
-Image_2B3FE192_628C_4FB2_41C6_ED82CD522B70_mobile.url = skin/Image_2B3FE192_628C_4FB2_41C6_ED82CD522B70_mobile_es.png
-Image_46EA362B_53DC_6546_41D3_6C430DF3563E.url = skin/Image_46EA362B_53DC_6546_41D3_6C430DF3563E_es.jpg
-Image_46EA362B_53DC_6546_41D3_6C430DF3563E_mobile.url = skin/Image_46EA362B_53DC_6546_41D3_6C430DF3563E_mobile_es.jpg
+Image_462E77D1_56DC_DA31_41CB_4B33E278BE93.url = skin/Image_462E77D1_56DC_DA31_41CB_4B33E278BE93_es.png
+Image_46706D32_56DD_CE70_41B7_5D4E090FAF58.url = skin/Image_46706D32_56DD_CE70_41B7_5D4E090FAF58_es.png
+Image_46738E1D_56E4_CA31_41D0_0983ED983E26.url = skin/Image_46738E1D_56E4_CA31_41D0_0983ED983E26_es.png
+Image_8FEB3DE2_80FF_8B29_41CF_0CE823C9CFC1.url = skin/Image_8FEB3DE2_80FF_8B29_41CF_0CE823C9CFC1_es.png
 
-### Multiline Text
-HTMLText_449235FC_58D1_2346_41CF_B447F132320E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.359999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>WELCOME TO THE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:5.359999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>SAFETY TRAINING TOUR</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:2.62vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.62vh;font-family:'Oswald Regular';"><B>A DEMO PROJECT FOR LEARNING PURPOSES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.9700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.97vh;font-family:'Roboto Medium';">Please, click on the "?" icons and respond to the questions.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:1.9700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.97vh;font-family:'Roboto Medium';">And find and click on "wrong" things in the 360º scene to win points. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.6599999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:0.66vh;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:2.73vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.73vh;font-family:'Roboto Black';">______________</SPAN></SPAN></DIV></div>
-HTMLText_449235FC_58D1_2346_41CF_B447F132320E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:9.529999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.53vmin;font-family:'Oswald';"><B>WELCOME TO THE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:9.529999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.53vmin;font-family:'Oswald';"><B>SAFETY TRAINING TOUR</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:4.659999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.66vmin;font-family:'Oswald Regular';"><B>A DEMO PROJECT FOR LEARNING PURPOSES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.33vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.92vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.5vmin;font-family:'Roboto Medium';">Please, click on the "?" icons and respond to the questions.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.94vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:3.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.5vmin;font-family:'Roboto Medium';">And find and click on "wrong" things in the 360º scene to win points. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.17vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.17vmin;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.8500000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.85vmin;font-family:'Roboto Black';">______________</SPAN></SPAN></DIV></div>
-HTMLText_46EBE62B_53DC_6546_41C7_0915232EA744.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.06vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.87vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.78vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.78vh;font-family:'Bebas Neue Bold';">Safety Helmets</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.87vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.62vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.62vh;font-family:'Bebas Neue Bold';">Failure to wear safety helmets seems to be one of the major causes of the increase in accidents.  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.98vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.87vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;">In construction industry, legal and institutional safety management improvements are continually being pursued. However, there was a 4.5% increase in the number of workers’ deaths at construction sites in 2019 compared to the previous year.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.87vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vh;">Recently, the importance of worker safety in the construction industry has become a prominent issue, and the Ministry of Employment and Labor has set a goal of reducing deaths due to industrial accidents by half before the end of 2022. Institutional and legal improvements are being pursued, and the need for safety is being emphasized. An analysis of construction accidents by body part showed that the head (161 people, 41.2%) and multiple body parts (123 people, 31.5%) were the most frequently injured, and among the fatal construction accidents.</SPAN></SPAN></DIV></div>
-HTMLText_46EBE62B_53DC_6546_41C7_0915232EA744_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12.049999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12.05vmin;font-family:'Bebas Neue Bold';">Safety Helmets</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.55vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.329999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:5.33vmin;font-family:'Bebas Neue Bold';">Failure to wear safety helmets seems to be one of the major causes of the increase in accidents.</SPAN><SPAN STYLE="color:#e7392b;font-size:4.66vmin;font-family:'Bebas Neue Bold';">  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.74vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.55vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.560000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.56vmin;">In construction industry, legal and institutional safety management improvements are continually being pursued. However, there was a 4.5% increase in the number of workers’ deaths at construction sites in 2019 compared to the previous year.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.55vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.560000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.56vmin;">Recently, the importance of worker safety in the construction industry has become a prominent issue, and the Ministry of Employment and Labor has set a goal of reducing deaths due to industrial accidents by half before the end of 2022. Institutional and legal improvements are being pursued, and the need for safety is being emphasized. An analysis of construction accidents by body part showed that the head (161 people, 41.2%) and multiple body parts (123 people, 31.5%) were the most frequently injured, and among the fatal construction accidents.</SPAN></SPAN></DIV></div>
-HTMLText_415A0F9B_53BF_C538_41C3_9A72013C4455_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:3.1099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.11vmin;font-family:'Bebas Neue Bold';">Progress:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:6.889999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.index}}/{{quiz.media.count}}</SPAN></SPAN></DIV></div>
-HTMLText_415A7F9A_53BF_C538_41D1_75D1EFE529C9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:4vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4vmin;font-family:'Bebas Neue Bold';">Scene Score:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:6.889999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.score}}/{{quiz.media.score.total}}</SPAN></SPAN></DIV></div>
-HTMLText_4159AF9A_53BF_C538_41CC_AFFA2843D099_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:4vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4vmin;font-family:'Bebas Neue Bold';">hidden Items:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:6.889999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.items.found}}/{{quiz.media.item.count}}</SPAN></SPAN></DIV></div>
-HTMLText_415A4F9B_53BF_C538_41BF_0540719D6648_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:2.289999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.29vmin;font-family:'Montserrat Light';">Elapsed:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:left;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.time.elapsed}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_4160CF89_53BF_C518_41D4_0A362CCAC92D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">Total Hidden Items:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.items.found}}/{{quiz.item.count}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_41599F9A_53BF_C538_41CC_C3E8A0D18A12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:4vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4vmin;font-family:'Bebas Neue Bold';">TOTAL SCORE:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:6.889999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vmin;font-family:'Montserrat Semi Bold';">{{quiz.score}}/{{quiz.score.total}}</SPAN></SPAN></DIV></div>
-HTMLText_415A3F9B_53BF_C538_41A4_CACEA21E9951_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:4vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4vmin;font-family:'Bebas Neue Bold';">Time:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6.4px rgba(0,0,0,0.75);text-align:right;font-size:6.889999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.89vmin;font-family:'Montserrat Semi Bold';">{{quiz.time.remaining}}</SPAN></SPAN></DIV></div>
-HTMLText_415A0F9B_53BF_C538_41C3_9A72013C4455.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Progress:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.index}}/{{quiz.media.count}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_415A7F9A_53BF_C538_41D1_75D1EFE529C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">Scene Score:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.score}}/{{quiz.media.score.total}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_4159AF9A_53BF_C538_41CC_AFFA2843D099.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">hidden Items:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.media.items.found}}/{{quiz.media.item.count}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_415A4F9B_53BF_C538_41BF_0540719D6648.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:2.289999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.29vmin;font-family:'Montserrat Light';">Elapsed:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:left;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.time.elapsed}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_41599F9A_53BF_C538_41CC_C3E8A0D18A12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">TOTAL SCORE:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.score}}/{{quiz.score.total}}</SPAN></SPAN></DIV></div>
-HTMLText_415A3F9B_53BF_C538_41A4_CACEA21E9951.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">Time:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.time.remaining}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_4160CF89_53BF_C518_41D4_0A362CCAC92D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:2.84vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:2.84vmin;font-family:'Bebas Neue Bold';">Total Hidden Items:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 8px rgba(0,0,0,0.75);text-align:right;font-size:5.160000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.16vmin;font-family:'Montserrat Semi Bold';">{{quiz.items.found}}/{{quiz.item.count}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.16vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.07vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+### Label
+Label_59C25EAD_56AC_4A10_41CA_CB010D0C74A2.text = Photography by Jeff Davis
+
+### Tooltip
+IconButton_E37CA9B7_E983_F12E_41E9_5FA0638D4D8D.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_EF8BF2CF_E362_CA64_41CB_5CE4DACA5634.toolTip = PANORAMA LIST
+IconButton_68CA5182_6070_7D3E_419C_BF635DC7C626.toolTip = PHOTO ALBUM
+IconButton_85265B23_8D1E_B01D_41E0_8CB2C82C1F5E.toolTip = SHOW FLOORPLANS
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = E-Learning Safety Demo Project
-
-## VR Menu
-
-### Text
-Menu_C9F8537E_C2D6_FB9D_41E3_1B96CA2BA59B.label = Media
-MenuItem_F34A7CFE_EF2A_EB0F_41BB_8797D83ECF10.label = Panorama 1
-MenuItem_F34A5CFE_EF2A_EB0F_4170_A96A782D1F18.label = Panorama 2
-MenuItem_F34A4CFE_EF2A_EB0F_41E8_6078748A4D2A.label = Panorama 3
+tour.name = New American Home light
